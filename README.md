@@ -278,16 +278,4 @@ See the LICENSE file for details.
 
 ---
 
-## 👨‍💻 Author
-
-**Ali Baash**
-
-GitHub Repository:
-https://github.com/Alibaash/somalia_market_intelligence
-
-Live Application:
-https://somalia-open-data-app-5mejzs3dqrpeekdirxmb5w.streamlit.app/
-
----
-
 ### Supporting Open Data and Market Transparency in Somalia 🇸🇴
