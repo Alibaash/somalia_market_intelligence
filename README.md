@@ -269,19 +269,6 @@ Planned improvements include:
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots of:
-
-* Dashboard
-* Exchange Rate Analysis
-* Commodity Prices
-* Fuel Prices
-* Analytics Page
-
-to improve project presentation and documentation.
-
----
 
 ## 📜 License
 
